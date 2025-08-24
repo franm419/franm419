@@ -1,9 +1,15 @@
-- 👋 Hi, My name is Francisco, and I'm from Córdoba, Argentina. 
-- 👀 I’m interested in developing a career into Data Analytics and I've been self teaching data stuff for the last 2 years.
-- 🌱 I’m currently learning Python, SQL and I'm really looking forward to applying them in new projects.
-- 📫 How to reach me: frannmm419@gmail.com. 
+👋 Hi, I'm Francisco from Córdoba, Argentina.  
 
-🧰 I like to work with:
-This tech stack
-VS Code Python VS Code mysql BigQueryselenium pandas seaborn numpy sklearn Jupyter
+🚀 I specialize in **Data, AI and Automation**, with experience in:  
+- Designing intelligent chatbots and multi-agent AI systems.  
+- Implementing workflow automations with n8n and Power Automate.  
+- Developing predictive models with machine learning for decision support.  
+- Creating AI-driven apps (e.g. LangGraph) to enhance sales and business insights.
+- Building interactive Power BI dashboards and integrating pipelines with Microsoft Fabric.  
 
+💡 My focus is on combining **data analytics, automation, and AI agents** to deliver intelligent solutions that optimize processes and support strategic decision-making.  
+
+🧰 Tech Stack:  
+Python | SQL | n8n | Zapier | Power Automate | LangChain | LangGraph | CrewAI | Power BI 
+
+📫 Reach me at: **frannmm419@gmail.com**  
