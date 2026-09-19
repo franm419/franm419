@@ -1,15 +1,19 @@
-👋 Hi, I'm Francisco from Córdoba, Argentina.  
+👋 Hi, I'm Francisco from Córdoba, Argentina.
 
-🚀 I specialize in **Data, AI and Automation**, with experience in:  
-- Designing intelligent chatbots and multi-agent AI systems.  
-- Implementing workflow automations with n8n and Power Automate.  
-- Developing predictive models with machine learning for decision support.  
-- Creating AI-driven apps (CrewAi/LangGraph) to enhance sales and business insights.
-- Building interactive Power BI dashboards and integrating pipelines with Microsoft Fabric.  
+📊 Data & AI Specialist with 7+ years turning data into decisions. I work at the intersection of data analytics, machine learning and AI automation.
 
-💡 My focus is on combining **data analytics, automation, and AI agents** to deliver intelligent solutions that optimize processes and support strategic decision-making.  
+🔷 Analytics & BI Power BI dashboards with semantic models and DAX, and data pipelines on Microsoft Fabric focused on scalability and data governance. Microsoft certified in Power BI Data Analyst Associate and Fabric Analytics Engineer Associate.
 
-🧰 Tech Stack:  
-Python | SQL | n8n | Zapier | Power Automate | LangChain | LangGraph | CrewAI | Power BI 
+🤖 AI & Agents Design and deployment of AI agents with LangGraph, CrewAI, Copilot Studio and Azure AI Foundry. Multi-agent systems, RAG over internal knowledge bases, and services exposed through FastAPI.
 
-📫 Reach me at: **frannmm419@gmail.com**  
+⚙️ Automation Workflows with n8n and Power Automate that remove manual tasks and bring AI into business processes.
+
+📈 Machine Learning Predictive and forecasting models with Python, Scikit-learn and PySpark, integrated into production reporting.
+
+🧰 Tech Stack
+
+Python · SQL · PySpark · Power BI · DAX · Microsoft Fabric · Azure · Scikit-learn · LangChain · LangGraph · CrewAI · Copilot Studio · Azure AI Foundry · RAG · FastAPI · n8n · Power Automate
+
+🎓 Master's degree in Data Science Management. Continuous learning is part of the job, not something separate.
+
+📫 Reach me at frannmm419@gmail.com · LinkedIn
