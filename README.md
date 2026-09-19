@@ -16,4 +16,4 @@ Python · SQL · PySpark · Power BI · DAX · Microsoft Fabric · Azure · Scik
 
 🎓 Master's degree in Data Science Management. Continuous learning is part of the job, not something separate.
 
-📫 Reach me at frannmm419@gmail.com · LinkedIn
+📫 Reach me at frannmm419@gmail.com
